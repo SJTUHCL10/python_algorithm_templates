@@ -8,6 +8,7 @@
     - dijkstra.py
 
 - math
+    - binpow.py
 
 - string
     - KMP.py
