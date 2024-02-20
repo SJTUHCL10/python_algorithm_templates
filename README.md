@@ -10,6 +10,10 @@
 - math
     - binpow.py
 
+- misc
+    - bootstrap.py
+    - int_wrapper.py
+
 - string
     - KMP.py
     - StringHash.py
