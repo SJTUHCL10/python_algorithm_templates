@@ -1,4 +1,4 @@
-## Algorithm Templates in Python
+## Algorithm Templates in Python for Competitive Programming
 
 - data_structures
     - BIT.py
@@ -9,6 +9,8 @@
 
 - math
     - binpow.py
+    - combination.py
+    - get_primes.py
 
 - misc
     - bootstrap.py
